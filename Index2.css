@@ -1,0 +1,24 @@
+body {
+    color: rgb(107, 28, 28);
+  }
+p {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+
+.a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    color: brown;
+}
+
+.armed{
+    width: 20%; 
+    }
+
+.pullup{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+ 
